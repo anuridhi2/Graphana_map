@@ -1,0 +1,501 @@
+Index,created_at,_id,author.location,geo.place.country,in_reply_to_user.location,country,latitude,longitude
+0,2023-02-24T08:02:29.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+1,2023-02-24T08:02:28.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+2,2023-02-24T08:02:25.000Z,1.63E+18,"Hatay, Türkiye",undefined,undefined,Turkey,38.9597594,34.9249653
+3,2023-02-24T08:02:24.000Z,1.63E+18,Endülüs,undefined,undefined,Endülüs,41.0214447,29.1089303
+4,2023-02-24T08:02:24.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+5,2023-02-24T08:02:24.000Z,1.63E+18,Türkiye,undefined,undefined,Turkey,38.9597594,34.9249653
+6,2023-02-24T08:02:23.000Z,1.63E+18,Tanzania,undefined,undefined,Tanzania,-6.5247123,35.7878438
+7,2023-02-24T08:02:23.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+8,2023-02-24T08:02:22.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+9,2023-02-24T08:02:22.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+10,2023-02-24T08:02:21.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+11,2023-02-24T08:02:21.000Z,1.63E+18,JOHO_JB,undefined,undefined,undefined,23.2161456,90.64938244
+12,2023-02-24T08:02:19.000Z,1.63E+18,"Hong Kong | Bay Area, USA",undefined,undefined,Hong,28.687547,115.8540042
+13,2023-02-24T08:02:19.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+14,2023-02-24T08:02:18.000Z,1.63E+18,World,undefined,🇵🇹🇲🇫🇪🇺🇺🇦France ,undefined,23.2161456,90.64938244
+15,2023-02-24T08:02:18.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+16,2023-02-24T08:02:17.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+17,2023-02-24T08:02:15.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+18,2023-02-24T08:02:14.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+19,2023-02-24T08:02:13.000Z,1.63E+18,Qatar,undefined,undefined,Qatar,25.3336984,51.2295295
+20,2023-02-24T08:02:13.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+21,2023-02-24T08:02:12.000Z,1.63E+18,undefined,undefined,Türkiye,undefined,23.2161456,90.64938244
+22,2023-02-24T08:02:11.000Z,1.63E+18,izmir,undefined,undefined,undefined,23.2161456,90.64938244
+23,2023-02-24T08:02:09.000Z,1.63E+18,Turkey,undefined,undefined,Turkey,38.9597594,34.9249653
+24,2023-02-24T08:02:06.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+25,2023-02-24T08:02:06.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+26,2023-02-24T08:02:05.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+27,2023-02-24T08:02:01.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+28,2023-02-24T08:02:01.000Z,1.63E+18,near you,undefined,undefined,undefined,23.2161456,90.64938244
+29,2023-02-24T08:01:58.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+30,2023-02-24T08:01:58.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+31,2023-02-24T08:01:54.000Z,1.63E+18,Pınarbaşı Kayseri,undefined,undefined,undefined,23.2161456,90.64938244
+32,2023-02-24T08:01:53.000Z,1.63E+18,Russia,undefined,undefined,Russia,64.6863136,97.7453061
+33,2023-02-24T08:01:53.000Z,1.63E+18,Türkiye,undefined,undefined,Turkey,38.9597594,34.9249653
+34,2023-02-24T08:01:50.000Z,1.63E+18,Batman ,undefined,undefined,Turkey,38.9597594,34.9249653
+35,2023-02-24T08:01:50.000Z,1.63E+18,Anıttepe,undefined,undefined,Turkey,38.9597594,34.9249653
+36,2023-02-24T08:01:49.000Z,1.63E+18,"Lagos, Nigeria",undefined,undefined,Nigeria,9.6000359,7.9999721
+37,2023-02-24T08:01:48.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+38,2023-02-24T08:01:47.000Z,1.63E+18,"Lagos, Nigeria",undefined,undefined,Nigeria,9.6000359,7.9999721
+39,2023-02-24T08:01:45.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+40,2023-02-24T08:01:37.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+41,2023-02-24T08:01:34.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+42,2023-02-24T08:01:33.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+43,2023-02-24T08:01:31.000Z,1.63E+18,"Abuja, Nigeria",undefined,undefined,Nigeria,9.6000359,7.9999721
+44,2023-02-24T08:01:30.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+45,2023-02-24T08:01:30.000Z,1.63E+18,Türkiye,undefined,undefined,Turkey,38.9597594,34.9249653
+46,2023-02-24T08:01:26.000Z,1.63E+18,İstanbul,undefined,undefined,İstanbul,41.0091982,28.9662187
+47,2023-02-24T08:01:25.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+48,2023-02-24T08:01:23.000Z,1.63E+18,Samsun /trabzon,undefined,undefined,Turkey,38.9597594,34.9249653
+49,2023-02-24T08:01:23.000Z,1.63E+18,در کنج خلوتگاهی,undefined,undefined,undefined,23.2161456,90.64938244
+50,2023-02-24T08:01:21.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+51,2023-02-24T08:01:21.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+52,2023-02-24T08:01:21.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+53,2023-02-24T08:01:17.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+54,2023-02-24T08:01:11.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+55,2023-02-24T08:01:06.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+56,2023-02-24T08:01:03.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+57,2023-02-24T08:01:00.000Z,1.63E+18,bursa,undefined,undefined,undefined,23.2161456,90.64938244
+58,2023-02-24T08:01:00.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+59,2023-02-24T08:00:58.000Z,1.63E+18,Türkiye,undefined,undefined,Turkey,38.9597594,34.9249653
+60,2023-02-24T08:00:57.000Z,1.63E+18,Syria- Damascus,undefined,undefined,undefined,23.2161456,90.64938244
+61,2023-02-24T08:00:49.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+62,2023-02-24T08:00:49.000Z,1.63E+18,دولة قطر,undefined,undefined,دولة,34.1448962,72.2188655
+63,2023-02-24T08:00:49.000Z,1.63E+18,undefined,Turkey,undefined,undefined,23.2161456,90.64938244
+64,2023-02-24T08:00:48.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+65,2023-02-24T08:00:44.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+66,2023-02-24T08:00:44.000Z,1.63E+18,"Washington, DC",undefined,undefined,United States of America,39.7837304,-100.445882
+67,2023-02-24T08:00:42.000Z,1.63E+18,Antakya,undefined,undefined,Turkey,38.9597594,34.9249653
+68,2023-02-24T08:00:41.000Z,1.63E+18,"İstanbul, Türkiye",undefined,undefined,İstanbul,41.0091982,28.9662187
+69,2023-02-24T08:00:41.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+70,2023-02-24T08:00:40.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+71,2023-02-24T08:00:40.000Z,1.63E+18,Belgium,undefined,undefined,Belgium,50.6402809,4.6667145
+72,2023-02-24T08:00:35.000Z,1.63E+18,Afghanistan,undefined,undefined,Afghanistan,33.7680065,66.2385139
+73,2023-02-24T08:00:34.000Z,1.63E+18,undefined,undefined,"Ankara,Türkiye",undefined,23.2161456,90.64938244
+74,2023-02-24T08:00:32.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+75,2023-02-24T08:00:32.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+76,2023-02-24T08:00:31.000Z,1.63E+18,"Hatay Merkez, Hatay",undefined,undefined,undefined,23.2161456,90.64938244
+77,2023-02-24T08:00:29.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+78,2023-02-24T08:00:22.000Z,1.63E+18,undefined,undefined,Siverek’teki Diyarbakırlı,undefined,23.2161456,90.64938244
+79,2023-02-24T08:00:22.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+80,2023-02-24T08:00:22.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+81,2023-02-24T08:00:20.000Z,1.63E+18,"Nong Khaem, Bangkok",undefined,undefined,Thailand,14.8971921,100.83273
+82,2023-02-24T08:00:16.000Z,1.63E+18,undefined,undefined,السعودية_,undefined,23.2161456,90.64938244
+83,2023-02-24T08:00:14.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+84,2023-02-24T08:00:14.000Z,1.63E+18,"Konya, Türkiye",undefined,undefined,Turkey,38.9597594,34.9249653
+85,2023-02-24T08:00:14.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+86,2023-02-24T08:00:13.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+87,2023-02-24T08:00:11.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+88,2023-02-24T08:00:09.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+89,2023-02-24T08:00:04.000Z,1.63E+18,The Netherlands,undefined,undefined,United States of America,39.7837304,-100.445882
+90,2023-02-24T08:00:02.000Z,1.63E+18,"Istanbul, Turkiye",undefined,undefined,Turkey,38.9597594,34.9249653
+91,2023-02-24T08:00:02.000Z,1.63E+18,Istanbul TR | Marshfield USA ,undefined,undefined,Turkey,38.9597594,34.9249653
+92,2023-02-24T08:00:02.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+93,2023-02-24T08:00:00.000Z,1.63E+18,Jeddah and Islamabad,undefined,undefined,Jeddah,21.5810088,39.1653612
+94,2023-02-24T08:00:00.000Z,1.63E+18,"Stockholm, Sweden",undefined,undefined,Sweden,59.6749712,14.5208584
+95,2023-02-24T08:00:00.000Z,1.63E+18,"Manhattan, NY",undefined,undefined,United States of America,39.7837304,-100.445882
+96,2023-02-24T07:59:58.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+97,2023-02-24T07:59:57.000Z,1.63E+18,adana,undefined,undefined,undefined,23.2161456,90.64938244
+98,2023-02-24T07:59:55.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+99,2023-02-24T07:59:53.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+100,2023-02-24T07:59:53.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+101,2023-02-24T07:59:52.000Z,1.63E+18,Liverpool❤️❤️YNWA😍❤️,undefined,undefined,undefined,23.2161456,90.64938244
+102,2023-02-24T07:59:49.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+103,2023-02-24T07:59:47.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+104,2023-02-24T07:59:45.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+105,2023-02-24T07:59:45.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+106,2023-02-24T07:59:45.000Z,1.63E+18,undefined,undefined,"Kadıköy, İstanbul",undefined,23.2161456,90.64938244
+107,2023-02-24T07:59:42.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+108,2023-02-24T07:59:39.000Z,1.63E+18,Vatican ,undefined,Vatican ,Vatican City,41.90381485,12.45315272
+109,2023-02-24T07:59:38.000Z,1.63E+18,Vatican ,undefined,Vatican ,Vatican City,41.90381485,12.45315272
+110,2023-02-24T07:59:37.000Z,1.63E+18,Vatican ,undefined,undefined,Vatican City,41.90381485,12.45315272
+111,2023-02-24T07:59:36.000Z,1.63E+18,undefined,Turkey,undefined,undefined,23.2161456,90.64938244
+112,2023-02-24T07:59:30.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+113,2023-02-24T07:59:27.000Z,1.63E+18,Galip İLHANER (VAN - İSTANBUL),undefined,undefined,undefined,23.2161456,90.64938244
+114,2023-02-24T07:59:25.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+115,2023-02-24T07:59:20.000Z,1.63E+18,"Arduinkaai 29, 1000 Brussels",undefined,undefined,undefined,23.2161456,90.64938244
+116,2023-02-24T07:59:12.000Z,1.63E+18,"Ankara, Türkiye",undefined,undefined,Turkey,38.9597594,34.9249653
+117,2023-02-24T07:59:11.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+118,2023-02-24T07:59:10.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+119,2023-02-24T07:59:08.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+120,2023-02-24T07:59:06.000Z,1.63E+18,"San Francisco, CA",United States,San Diego,United States of America,39.7837304,-100.445882
+121,2023-02-24T07:59:02.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+122,2023-02-24T07:59:02.000Z,1.63E+18,United States,undefined,Russia,United States of America,39.7837304,-100.445882
+123,2023-02-24T07:59:01.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+124,2023-02-24T07:59:00.000Z,1.63E+18,"Mersin, Türkiye",undefined,undefined,Turkey,38.9597594,34.9249653
+125,2023-02-24T07:58:59.000Z,1.63E+18,"İstanbul, Türkiye",undefined,undefined,İstanbul,41.0091982,28.9662187
+126,2023-02-24T07:58:59.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+127,2023-02-24T07:58:54.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+128,2023-02-24T07:58:50.000Z,1.63E+18,السعودية_,undefined,undefined,undefined,23.2161456,90.64938244
+129,2023-02-24T07:58:50.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+130,2023-02-24T07:58:48.000Z,1.63E+18,undefined,undefined,"England, United Kingdom",undefined,23.2161456,90.64938244
+131,2023-02-24T07:58:42.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+132,2023-02-24T07:58:35.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+133,2023-02-24T07:58:34.000Z,1.63E+18,Vienna,undefined,undefined,Austria,47.59397,14.12456
+134,2023-02-24T07:58:33.000Z,1.63E+18,Türkiye,undefined,undefined,Turkey,38.9597594,34.9249653
+135,2023-02-24T07:58:32.000Z,1.63E+18,Hatay,undefined,undefined,Turkey,38.9597594,34.9249653
+136,2023-02-24T07:58:32.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+137,2023-02-24T07:58:27.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+138,2023-02-24T07:58:27.000Z,1.63E+18,Türkiye,undefined,undefined,Turkey,38.9597594,34.9249653
+139,2023-02-24T07:58:27.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+140,2023-02-24T07:58:25.000Z,1.63E+18,"Denizli, Türkiye",undefined,undefined,Turkey,38.9597594,34.9249653
+141,2023-02-24T07:58:20.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+142,2023-02-24T07:58:19.000Z,1.63E+18,"Ankara, Türkiye",undefined,undefined,Turkey,38.9597594,34.9249653
+143,2023-02-24T07:58:16.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+144,2023-02-24T07:58:14.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+145,2023-02-24T07:58:10.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+146,2023-02-24T07:58:10.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+147,2023-02-24T07:58:09.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+148,2023-02-24T07:58:08.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+149,2023-02-24T07:58:07.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+150,2023-02-24T07:58:06.000Z,1.63E+18,Ireland,Syria,undefined,Ireland,52.865196,-7.9794599
+151,2023-02-24T07:58:06.000Z,1.63E+18,İstanbul,undefined,undefined,İstanbul,41.0091982,28.9662187
+152,2023-02-24T07:58:05.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+153,2023-02-24T07:58:05.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+154,2023-02-24T07:58:04.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+155,2023-02-24T07:58:01.000Z,1.63E+18,Amsterdam,undefined,undefined,Netherlands,52.2434979,5.6343227
+156,2023-02-24T07:57:50.000Z,1.63E+18,"Karamürsel, Türkiye",undefined,undefined,Turkey,38.9597594,34.9249653
+157,2023-02-24T07:57:49.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+158,2023-02-24T07:57:47.000Z,1.63E+18,"Bornova, İzmir",undefined,undefined,Bornova,38.4660651,27.2190721
+159,2023-02-24T07:57:46.000Z,1.63E+18,JAPAN,undefined,Global South ,Japan,36.5748441,139.2394179
+160,2023-02-24T07:57:45.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+161,2023-02-24T07:57:37.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+162,2023-02-24T07:57:31.000Z,1.63E+18,"İstanbul, Türkiye",undefined,undefined,İstanbul,41.0091982,28.9662187
+163,2023-02-24T07:57:31.000Z,1.63E+18,puerto varas,undefined,undefined,undefined,23.2161456,90.64938244
+164,2023-02-24T07:57:30.000Z,1.63E+18,"Abuja, Nigeria",undefined,undefined,Nigeria,9.6000359,7.9999721
+165,2023-02-24T07:57:29.000Z,1.63E+18,"İzmir, Türkiye",undefined,undefined,Turkey,38.9597594,34.9249653
+166,2023-02-24T07:57:29.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+167,2023-02-24T07:57:29.000Z,1.63E+18,"İstanbul, Türkiye",undefined,undefined,İstanbul,41.0091982,28.9662187
+168,2023-02-24T07:57:28.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+169,2023-02-24T07:57:26.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+170,2023-02-24T07:57:24.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+171,2023-02-24T07:57:21.000Z,1.63E+18,"Kadirli, Osmaniye",undefined,undefined,Turkey,38.9597594,34.9249653
+172,2023-02-24T07:57:20.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+173,2023-02-24T07:57:19.000Z,1.63E+18,"Adana, Türkiye",undefined,undefined,Turkey,38.9597594,34.9249653
+174,2023-02-24T07:57:17.000Z,1.63E+18,"Kadirli, Osmaniye",undefined,undefined,Turkey,38.9597594,34.9249653
+175,2023-02-24T07:57:16.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+176,2023-02-24T07:57:14.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+177,2023-02-24T07:57:12.000Z,1.63E+18,London,undefined,undefined,United Kingdom,54.7023545,-3.2765753
+178,2023-02-24T07:57:11.000Z,1.63E+18,"İzmir, Türkiye",undefined,undefined,Turkey,38.9597594,34.9249653
+179,2023-02-24T07:57:08.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+180,2023-02-24T07:57:07.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+181,2023-02-24T07:57:06.000Z,1.63E+18,Dünya,undefined,undefined,Dünya,41.45818,25.0364435
+182,2023-02-24T07:57:03.000Z,1.63E+18,"Bornheim FFM, Deutschland",undefined,undefined,Germany,51.1638175,10.4478313
+183,2023-02-24T07:57:00.000Z,1.63E+18,QueenslandO,undefined,undefined,QueenslandO,,
+184,2023-02-24T07:56:59.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+185,2023-02-24T07:56:59.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+186,2023-02-24T07:56:56.000Z,1.63E+18,QueenslandO,undefined,undefined,QueenslandO,,
+187,2023-02-24T07:56:52.000Z,1.63E+18,"Kadirli, Osmaniye",undefined,undefined,Turkey,38.9597594,34.9249653
+188,2023-02-24T07:56:50.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+189,2023-02-24T07:56:49.000Z,1.63E+18,"Ankara, Türkiye",Syria,"Ankara, Türkiye",Turkey,38.9597594,34.9249653
+190,2023-02-24T07:56:43.000Z,1.63E+18,"Pendik, İstanbul",undefined,undefined,Turkey,38.9597594,34.9249653
+191,2023-02-24T07:56:43.000Z,1.63E+18,Konya ve Hatay - Türkiye,undefined,undefined,Turkey,38.9597594,34.9249653
+192,2023-02-24T07:56:42.000Z,1.63E+18,undefined,undefined,"İstanbul, Türkiye",undefined,23.2161456,90.64938244
+193,2023-02-24T07:56:40.000Z,1.63E+18,Azerbaijan,undefined,undefined,Azerbaijan,40.3936294,47.7872508
+194,2023-02-24T07:56:40.000Z,1.63E+18,İstanbul,Turkey,undefined,İstanbul,41.0091982,28.9662187
+195,2023-02-24T07:56:40.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+196,2023-02-24T07:56:38.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+197,2023-02-24T07:56:36.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+198,2023-02-24T07:56:35.000Z,1.63E+18,Aydın ,undefined,undefined,Turkey,38.9597594,34.9249653
+199,2023-02-24T07:56:34.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+200,2023-02-24T07:56:30.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+201,2023-02-24T07:56:30.000Z,1.63E+18,Bulgaria,undefined,undefined,Bulgaria,42.6073975,25.4856617
+202,2023-02-24T07:56:28.000Z,1.63E+18,Australia,undefined,undefined,Australia,-24.7761086,134.755
+203,2023-02-24T07:56:26.000Z,1.63E+18,Barcelona,undefined,undefined,Spain,39.3260685,-4.8379791
+204,2023-02-24T07:56:24.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+205,2023-02-24T07:56:19.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+206,2023-02-24T07:56:16.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+207,2023-02-24T07:56:13.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+208,2023-02-24T07:56:12.000Z,1.63E+18,GHANA,undefined,undefined,Ghana,8.0300284,-1.0800271
+209,2023-02-24T07:56:12.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+210,2023-02-24T07:56:10.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+211,2023-02-24T07:56:08.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+212,2023-02-24T07:56:08.000Z,1.63E+18,hatay,undefined,undefined,undefined,23.2161456,90.64938244
+213,2023-02-24T07:56:06.000Z,1.63E+18,"Ankara, Türkiye",undefined,undefined,Turkey,38.9597594,34.9249653
+214,2023-02-24T07:56:03.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+215,2023-02-24T07:56:02.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+216,2023-02-24T07:56:01.000Z,1.63E+18,"North Devon, England",undefined,Beijing,United States of America,39.7837304,-100.445882
+217,2023-02-24T07:56:00.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+218,2023-02-24T07:55:57.000Z,1.63E+18,Pakistan,undefined,undefined,Pakistan,30.3308401,71.247499
+219,2023-02-24T07:55:56.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+220,2023-02-24T07:55:54.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+221,2023-02-24T07:55:53.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+222,2023-02-24T07:55:53.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+223,2023-02-24T07:55:51.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+224,2023-02-24T07:55:51.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+225,2023-02-24T07:55:51.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+226,2023-02-24T07:55:50.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+227,2023-02-24T07:55:49.000Z,1.63E+18,"Yerwa, Maiduguri, Borno State",undefined,undefined,Yerwa,11.8395375,13.1536214
+228,2023-02-24T07:55:46.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+229,2023-02-24T07:55:43.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+230,2023-02-24T07:55:39.000Z,1.63E+18,Antakya,undefined,undefined,Turkey,38.9597594,34.9249653
+231,2023-02-24T07:55:38.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+232,2023-02-24T07:55:36.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+233,2023-02-24T07:55:36.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+234,2023-02-24T07:55:33.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+235,2023-02-24T07:55:32.000Z,1.63E+18,Hatay,undefined,undefined,Turkey,38.9597594,34.9249653
+236,2023-02-24T07:55:32.000Z,1.63E+18,ATATÜRKEŞÇİ,undefined,Antakya,undefined,23.2161456,90.64938244
+237,2023-02-24T07:55:31.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+238,2023-02-24T07:55:30.000Z,1.63E+18,Turkey,undefined,undefined,Turkey,38.9597594,34.9249653
+239,2023-02-24T07:55:30.000Z,1.63E+18,"South Hazelton, BC",undefined,undefined,Canada,61.0666922,-107.991707
+240,2023-02-24T07:55:30.000Z,1.63E+18,undefined,undefined,Türkiye,undefined,23.2161456,90.64938244
+241,2023-02-24T07:55:25.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+242,2023-02-24T07:55:16.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+243,2023-02-24T07:55:15.000Z,1.63E+18,"New York, USA",undefined,undefined,United States of America,39.7837304,-100.445882
+244,2023-02-24T07:55:10.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+245,2023-02-24T07:55:07.000Z,1.63E+18,hvacion@icloud.com,undefined,undefined,undefined,23.2161456,90.64938244
+246,2023-02-24T07:55:06.000Z,1.63E+18,izmir,undefined,undefined,undefined,23.2161456,90.64938244
+247,2023-02-24T07:55:03.000Z,1.63E+18,Bharatvarsha,undefined,undefined,Bharatvarsha,,
+248,2023-02-24T07:55:03.000Z,1.63E+18,Bahrain,undefined,undefined,Bahrain,26.1551249,50.5344606
+249,2023-02-24T07:55:03.000Z,1.63E+18,"West Borneo, Indonesia",undefined,undefined,Indonesia,-2.4833826,117.8902853
+250,2023-02-24T07:55:02.000Z,1.63E+18,1.86,undefined,undefined,undefined,23.2161456,90.64938244
+251,2023-02-24T07:54:58.000Z,1.63E+18,hatay,undefined,undefined,undefined,23.2161456,90.64938244
+252,2023-02-24T07:54:55.000Z,1.63E+18,Istanbul ,undefined,undefined,Turkey,38.9597594,34.9249653
+253,2023-02-24T07:54:54.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+254,2023-02-24T07:54:52.000Z,1.63E+18,"Ummaah, Muslim",undefined,undefined,Ummaah,,
+255,2023-02-24T07:54:51.000Z,1.63E+18,Earth,undefined,undefined,United States of America,39.7837304,-100.445882
+256,2023-02-24T07:54:48.000Z,1.63E+18,İstanbul,undefined,undefined,İstanbul,41.0091982,28.9662187
+257,2023-02-24T07:54:47.000Z,1.63E+18,Aydın,undefined,undefined,Turkey,38.9597594,34.9249653
+258,2023-02-24T07:54:47.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+259,2023-02-24T07:54:47.000Z,1.63E+18,"Istanbul, Turkey",undefined,undefined,Turkey,38.9597594,34.9249653
+260,2023-02-24T07:54:46.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+261,2023-02-24T07:54:43.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+262,2023-02-24T07:54:37.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+263,2023-02-24T07:54:36.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+264,2023-02-24T07:54:32.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+265,2023-02-24T07:54:26.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+266,2023-02-24T07:54:25.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+267,2023-02-24T07:54:25.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+268,2023-02-24T07:54:24.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+269,2023-02-24T07:54:20.000Z,1.63E+18,elbistan k.maraş,undefined,undefined,undefined,23.2161456,90.64938244
+270,2023-02-24T07:54:19.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+271,2023-02-24T07:54:14.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+272,2023-02-24T07:54:10.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+273,2023-02-24T07:54:07.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+274,2023-02-24T07:54:04.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+275,2023-02-24T07:54:03.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+276,2023-02-24T07:54:00.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+277,2023-02-24T07:54:00.000Z,1.63E+18,Hanumanji Ke charno me 🙏🙏🙏,undefined,India,undefined,23.2161456,90.64938244
+278,2023-02-24T07:54:00.000Z,1.63E+18,Ankara,undefined,undefined,Turkey,38.9597594,34.9249653
+279,2023-02-24T07:53:58.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+280,2023-02-24T07:53:53.000Z,1.63E+18,Sri Lanka,undefined,undefined,undefined,23.2161456,90.64938244
+281,2023-02-24T07:53:49.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+282,2023-02-24T07:53:49.000Z,1.63E+18,undefined,undefined,"Dallas, TX",undefined,23.2161456,90.64938244
+283,2023-02-24T07:53:47.000Z,1.63E+18,"Kiambu, Kenya",undefined,undefined,Kenya,1.4419683,38.4313975
+284,2023-02-24T07:53:46.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+285,2023-02-24T07:53:42.000Z,1.63E+18,manisa,undefined,undefined,undefined,23.2161456,90.64938244
+286,2023-02-24T07:53:40.000Z,1.63E+18,"Tuzla, İstanbul 🇹🇷🇹🇷🇹🇷",undefined,undefined,Turkey,38.9597594,34.9249653
+287,2023-02-24T07:53:39.000Z,1.63E+18,manisa,undefined,undefined,undefined,23.2161456,90.64938244
+288,2023-02-24T07:53:36.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+289,2023-02-24T07:53:31.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+290,2023-02-24T07:53:26.000Z,1.63E+18,"Antalya, Türkiye",undefined,"Ankara, Türkiye",Turkey,38.9597594,34.9249653
+291,2023-02-24T07:53:25.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+292,2023-02-24T07:53:25.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+293,2023-02-24T07:53:23.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+294,2023-02-24T07:53:23.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+295,2023-02-24T07:53:22.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+296,2023-02-24T07:53:19.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+297,2023-02-24T07:53:18.000Z,1.63E+18,"Melbourne, Australia",undefined,"Washington, DC",Australia,-24.7761086,134.755
+298,2023-02-24T07:53:17.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+299,2023-02-24T07:53:14.000Z,1.63E+18,undefined,undefined,"Malatya, Türkiye",undefined,23.2161456,90.64938244
+300,2023-02-24T07:53:13.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+301,2023-02-24T07:53:06.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+302,2023-02-24T07:53:03.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+303,2023-02-24T07:53:02.000Z,1.63E+18,MUSTAFA KEMAL ATATÜRK'ün yolunda,undefined,undefined,undefined,23.2161456,90.64938244
+304,2023-02-24T07:52:59.000Z,1.63E+18,"Kocaeli, Türkiye",undefined,undefined,Turkey,38.9597594,34.9249653
+305,2023-02-24T07:52:57.000Z,1.63E+18,"İstanbul, Türkiye",undefined,undefined,İstanbul,41.0091982,28.9662187
+306,2023-02-24T07:52:55.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+307,2023-02-24T07:52:48.000Z,1.63E+18,Hanumanji Ke charno me 🙏🙏🙏,undefined,undefined,undefined,23.2161456,90.64938244
+308,2023-02-24T07:52:48.000Z,1.63E+18,I❤️Burnumun Diki ,undefined,undefined,undefined,23.2161456,90.64938244
+309,2023-02-24T07:52:36.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+310,2023-02-24T07:52:35.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+311,2023-02-24T07:52:34.000Z,1.63E+18,Rize ,undefined,Türkiye,undefined,23.2161456,90.64938244
+312,2023-02-24T07:52:34.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+313,2023-02-24T07:52:34.000Z,1.63E+18,Türkiye,undefined,undefined,Turkey,38.9597594,34.9249653
+314,2023-02-24T07:52:30.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+315,2023-02-24T07:52:29.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+316,2023-02-24T07:52:28.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+317,2023-02-24T07:52:27.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+318,2023-02-24T07:52:27.000Z,1.63E+18,Turkey,undefined,undefined,Turkey,38.9597594,34.9249653
+319,2023-02-24T07:52:26.000Z,1.63E+18,undefined,undefined,İstanbul,undefined,23.2161456,90.64938244
+320,2023-02-24T07:52:24.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+321,2023-02-24T07:52:23.000Z,1.63E+18,Turkey,undefined,Türkiye,Turkey,38.9597594,34.9249653
+322,2023-02-24T07:52:21.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+323,2023-02-24T07:52:20.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+324,2023-02-24T07:52:18.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+325,2023-02-24T07:52:18.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+326,2023-02-24T07:52:17.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+327,2023-02-24T07:52:16.000Z,1.63E+18,Earth,undefined,undefined,United States of America,39.7837304,-100.445882
+328,2023-02-24T07:52:16.000Z,1.63E+18,"Mumbai, India",undefined,undefined,India,22.3511148,78.6677428
+329,2023-02-24T07:52:16.000Z,1.63E+18,istanbul,undefined,undefined,undefined,23.2161456,90.64938244
+330,2023-02-24T07:52:15.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+331,2023-02-24T07:52:15.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+332,2023-02-24T07:52:13.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+333,2023-02-24T07:52:12.000Z,1.63E+18,"New York, USA",undefined,undefined,United States of America,39.7837304,-100.445882
+334,2023-02-24T07:52:12.000Z,1.63E+18,Sri Lanka,undefined,undefined,undefined,23.2161456,90.64938244
+335,2023-02-24T07:52:12.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+336,2023-02-24T07:52:12.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+337,2023-02-24T07:52:05.000Z,1.63E+18,Syria,undefined,undefined,Syria,34.6401861,39.0494106
+338,2023-02-24T07:52:05.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+339,2023-02-24T07:52:01.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+340,2023-02-24T07:52:01.000Z,1.63E+18,they/she,undefined,undefined,undefined,23.2161456,90.64938244
+341,2023-02-24T07:52:00.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+342,2023-02-24T07:51:55.000Z,1.63E+18,Kocaeli,undefined,undefined,Turkey,38.9597594,34.9249653
+343,2023-02-24T07:51:52.000Z,1.63E+18,"Çanakkale, Türkiye",undefined,undefined,Turkey,38.9597594,34.9249653
+344,2023-02-24T07:51:52.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+345,2023-02-24T07:51:46.000Z,1.63E+18,hemserim memleket nire.İSLÂM.,undefined,undefined,undefined,23.2161456,90.64938244
+346,2023-02-24T07:51:45.000Z,1.63E+18,"Ankara, Türkiye",undefined,undefined,Turkey,38.9597594,34.9249653
+347,2023-02-24T07:51:44.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+348,2023-02-24T07:51:43.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+349,2023-02-24T07:51:43.000Z,1.63E+18,"Antalya, Türkiye",undefined,undefined,Turkey,38.9597594,34.9249653
+350,2023-02-24T07:51:39.000Z,1.63E+18,Corsica France,undefined,undefined,France,46.603354,1.8883335
+351,2023-02-24T07:51:28.000Z,1.63E+18,ankara,undefined,undefined,undefined,23.2161456,90.64938244
+352,2023-02-24T07:51:27.000Z,1.63E+18,"İstanbul, Türkiye",undefined,undefined,İstanbul,41.0091982,28.9662187
+353,2023-02-24T07:51:26.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+354,2023-02-24T07:51:24.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+355,2023-02-24T07:51:24.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+356,2023-02-24T07:51:24.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+357,2023-02-24T07:51:23.000Z,1.63E+18,"Boston, MA",undefined,undefined,United States of America,39.7837304,-100.445882
+358,2023-02-24T07:51:22.000Z,1.63E+18,"Austin, Texas",undefined,undefined,United States of America,39.7837304,-100.445882
+359,2023-02-24T07:51:19.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+360,2023-02-24T07:51:17.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+361,2023-02-24T07:51:15.000Z,1.63E+18,"Saint Petersburg, Russia",undefined,undefined,Russia,64.6863136,97.7453061
+362,2023-02-24T07:51:11.000Z,1.63E+18,"İskenderun, Türkiye",undefined,undefined,İskenderun,36.5902266,36.1710354
+363,2023-02-24T07:51:10.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+364,2023-02-24T07:51:05.000Z,1.63E+18,"İstanbul, Türkiye",undefined,"Hatay, Türkiye",İstanbul,41.0091982,28.9662187
+365,2023-02-24T07:51:04.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+366,2023-02-24T07:51:02.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+367,2023-02-24T07:51:00.000Z,1.63E+18,Ankara,undefined,undefined,Turkey,38.9597594,34.9249653
+368,2023-02-24T07:51:00.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+369,2023-02-24T07:50:59.000Z,1.63E+18,Elazığ - Afyon,undefined,undefined,Turkey,38.9597594,34.9249653
+370,2023-02-24T07:50:59.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+371,2023-02-24T07:50:56.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+372,2023-02-24T07:50:56.000Z,1.63E+18,İstanbul/Beşiktaş,undefined,undefined,undefined,23.2161456,90.64938244
+373,2023-02-24T07:50:54.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+374,2023-02-24T07:50:52.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+375,2023-02-24T07:50:51.000Z,1.63E+18,"Yanbu, Kingdom of Saudi Arabia",undefined,undefined,Saudi Arabia,25.6242618,42.3528328
+376,2023-02-24T07:50:51.000Z,1.63E+18,İzmir,undefined,undefined,Turkey,38.9597594,34.9249653
+377,2023-02-24T07:50:48.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+378,2023-02-24T07:50:34.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+379,2023-02-24T07:50:33.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+380,2023-02-24T07:50:32.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+381,2023-02-24T07:50:32.000Z,1.63E+18,"Ankara, Türkiye",undefined,Türkiye,Turkey,38.9597594,34.9249653
+382,2023-02-24T07:50:32.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+383,2023-02-24T07:50:29.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+384,2023-02-24T07:50:27.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+385,2023-02-24T07:50:25.000Z,1.63E+18,"İstanbul, Türkiye",undefined,undefined,İstanbul,41.0091982,28.9662187
+386,2023-02-24T07:50:24.000Z,1.63E+18,Corsica France,undefined,undefined,France,46.603354,1.8883335
+387,2023-02-24T07:50:23.000Z,1.63E+18,Asia 🌏,undefined,undefined,Philippines,12.7503486,122.7312101
+388,2023-02-24T07:50:18.000Z,1.63E+18,"Kumlu, Hatay",undefined,undefined,Turkey,38.9597594,34.9249653
+389,2023-02-24T07:50:18.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+390,2023-02-24T07:50:16.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+391,2023-02-24T07:50:15.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+392,2023-02-24T07:50:08.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+393,2023-02-24T07:50:06.000Z,1.63E+18,"Istanbul, Turkiye",undefined,undefined,Turkey,38.9597594,34.9249653
+394,2023-02-24T07:50:02.000Z,1.63E+18,"West Region, Singapore",undefined,"West Region, Singapore",Singapore,1.357107,103.8194992
+395,2023-02-24T07:49:57.000Z,1.63E+18,"İzmir, Türkiye",undefined,undefined,Turkey,38.9597594,34.9249653
+396,2023-02-24T07:49:52.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+397,2023-02-24T07:49:52.000Z,1.63E+18,"Hyderabad, India",undefined,"Dallas, TX",India,22.3511148,78.6677428
+398,2023-02-24T07:49:51.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+399,2023-02-24T07:49:50.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+400,2023-02-24T07:49:40.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+401,2023-02-24T07:49:40.000Z,1.63E+18,"Adana, Türkiye",undefined,undefined,Turkey,38.9597594,34.9249653
+402,2023-02-24T07:49:30.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+403,2023-02-24T07:49:25.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+404,2023-02-24T07:49:24.000Z,1.63E+18,"Eastbourne, England",undefined,undefined,United States of America,39.7837304,-100.445882
+405,2023-02-24T07:49:18.000Z,1.63E+18,"İstanbul, Türkiye",undefined,undefined,İstanbul,41.0091982,28.9662187
+406,2023-02-24T07:49:18.000Z,1.63E+18,USA,undefined,undefined,undefined,23.2161456,90.64938244
+407,2023-02-24T07:49:18.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+408,2023-02-24T07:49:14.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+409,2023-02-24T07:49:13.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+410,2023-02-24T07:49:12.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+411,2023-02-24T07:49:11.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+412,2023-02-24T07:49:10.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+413,2023-02-24T07:49:10.000Z,1.63E+18,izmir,undefined,undefined,undefined,23.2161456,90.64938244
+414,2023-02-24T07:49:07.000Z,1.63E+18,Auckland-NZ,undefined,Türkiye,undefined,23.2161456,90.64938244
+415,2023-02-24T07:49:06.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+416,2023-02-24T07:49:05.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+417,2023-02-24T07:49:02.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+418,2023-02-24T07:48:55.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+419,2023-02-24T07:48:52.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+420,2023-02-24T07:48:50.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+421,2023-02-24T07:48:49.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+422,2023-02-24T07:48:47.000Z,1.63E+18,undefined,undefined,muqdisho,undefined,23.2161456,90.64938244
+423,2023-02-24T07:48:47.000Z,1.63E+18,"Sarıyer, İstanbul",undefined,undefined,Turkey,38.9597594,34.9249653
+424,2023-02-24T07:48:47.000Z,1.63E+18,undefined,undefined,Türkiye,undefined,23.2161456,90.64938244
+425,2023-02-24T07:48:44.000Z,1.63E+18,Malatya ,undefined,undefined,Turkey,38.9597594,34.9249653
+426,2023-02-24T07:48:42.000Z,1.63E+18,Defne/HATAY,Turkey,undefined,undefined,23.2161456,90.64938244
+427,2023-02-24T07:48:39.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+428,2023-02-24T07:48:39.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+429,2023-02-24T07:48:39.000Z,1.63E+18,"Edirne, Türkiye",undefined,undefined,Turkey,38.9597594,34.9249653
+430,2023-02-24T07:48:38.000Z,1.63E+18,"Johannesburg, South Africa",undefined,undefined,South Africa,-28.8166236,24.991639
+431,2023-02-24T07:48:36.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+432,2023-02-24T07:48:34.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+433,2023-02-24T07:48:29.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+434,2023-02-24T07:48:28.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+435,2023-02-24T07:48:26.000Z,1.63E+18,undefined,undefined,"Ankara, Türkiye",undefined,23.2161456,90.64938244
+436,2023-02-24T07:48:24.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+437,2023-02-24T07:48:22.000Z,1.63E+18,USA,undefined,undefined,undefined,23.2161456,90.64938244
+438,2023-02-24T07:48:20.000Z,1.63E+18,"Ankara, Türkiye",undefined,undefined,Turkey,38.9597594,34.9249653
+439,2023-02-24T07:48:20.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+440,2023-02-24T07:48:16.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+441,2023-02-24T07:48:12.000Z,1.63E+18,Türkiye,undefined,undefined,Turkey,38.9597594,34.9249653
+442,2023-02-24T07:48:12.000Z,1.63E+18,"Samsun, Türkiye",undefined,undefined,Turkey,38.9597594,34.9249653
+443,2023-02-24T07:48:11.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+444,2023-02-24T07:48:10.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+445,2023-02-24T07:48:09.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+446,2023-02-24T07:48:07.000Z,1.63E+18,"Hatay, Türkiye",undefined,undefined,Turkey,38.9597594,34.9249653
+447,2023-02-24T07:48:06.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+448,2023-02-24T07:48:06.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+449,2023-02-24T07:47:57.000Z,1.63E+18,"Ankara, Türkiye",undefined,undefined,Turkey,38.9597594,34.9249653
+450,2023-02-24T07:47:51.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+451,2023-02-24T07:47:51.000Z,1.63E+18,Syria- Damascus,undefined,undefined,undefined,23.2161456,90.64938244
+452,2023-02-24T07:47:50.000Z,1.63E+18,"Tekeler Mahallesi, Çevre Yolu ",undefined,undefined,undefined,23.2161456,90.64938244
+453,2023-02-24T07:47:48.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+454,2023-02-24T07:47:47.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+455,2023-02-24T07:47:45.000Z,1.63E+18,İstanbul Türkiye ,undefined,undefined,undefined,23.2161456,90.64938244
+456,2023-02-24T07:47:41.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+457,2023-02-24T07:47:40.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+458,2023-02-24T07:47:40.000Z,1.63E+18,"Şanlıurfa, Türkiye",undefined,undefined,Turkey,38.9597594,34.9249653
+459,2023-02-24T07:47:37.000Z,1.63E+18,"West Palm beach, FL",undefined,undefined,United States of America,39.7837304,-100.445882
+460,2023-02-24T07:47:34.000Z,1.63E+18,"Abu Dhabi, United Arab Emirate",undefined,undefined,United States of America,39.7837304,-100.445882
+461,2023-02-24T07:47:33.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+462,2023-02-24T07:47:28.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+463,2023-02-24T07:47:24.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+464,2023-02-24T07:47:23.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+465,2023-02-24T07:47:20.000Z,1.63E+18,Turkey,undefined,undefined,Turkey,38.9597594,34.9249653
+466,2023-02-24T07:47:19.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+467,2023-02-24T07:47:16.000Z,1.63E+18,"Karachi , Pakistan",undefined,undefined,Pakistan,30.3308401,71.247499
+468,2023-02-24T07:47:13.000Z,1.63E+18,Myanmar,undefined,undefined,Myanmar,17.1750495,95.9999652
+469,2023-02-24T07:47:12.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+470,2023-02-24T07:47:11.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+471,2023-02-24T07:47:07.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+472,2023-02-24T07:47:05.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+473,2023-02-24T07:47:05.000Z,1.63E+18,ATATÜRKEŞÇİ,undefined,undefined,undefined,23.2161456,90.64938244
+474,2023-02-24T07:47:03.000Z,1.63E+18,Earth ,undefined,undefined,United States of America,39.7837304,-100.445882
+475,2023-02-24T07:47:03.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+476,2023-02-24T07:47:01.000Z,1.63E+18,İstanbul,undefined,undefined,İstanbul,41.0091982,28.9662187
+477,2023-02-24T07:46:53.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+478,2023-02-24T07:46:50.000Z,1.63E+18,"İzmir, Türkiye",undefined,undefined,Turkey,38.9597594,34.9249653
+479,2023-02-24T07:46:49.000Z,1.63E+18,ATATÜRKEŞÇİ,undefined,undefined,undefined,23.2161456,90.64938244
+480,2023-02-24T07:46:46.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+481,2023-02-24T07:46:45.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+482,2023-02-24T07:46:45.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+483,2023-02-24T07:46:33.000Z,1.63E+18,www.facebook.com/sinanozkan59,undefined,"Ankara, Türkiye",undefined,23.2161456,90.64938244
+484,2023-02-24T07:46:30.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+485,2023-02-24T07:46:30.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+486,2023-02-24T07:46:29.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+487,2023-02-24T07:46:28.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+488,2023-02-24T07:46:27.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+489,2023-02-24T07:46:27.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+490,2023-02-24T07:46:25.000Z,1.63E+18,"İstanbul, Türkiye",undefined,undefined,İstanbul,41.0091982,28.9662187
+491,2023-02-24T07:46:24.000Z,1.63E+18,"Accra, Ghana",undefined,undefined,Ghana,8.0300284,-1.0800271
+492,2023-02-24T07:46:22.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+493,2023-02-24T07:46:22.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+494,2023-02-24T07:46:20.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+495,2023-02-24T07:46:17.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+496,2023-02-24T07:46:14.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+497,2023-02-24T07:46:14.000Z,1.63E+18,İnternet,undefined,undefined,İnternet,5.56576695,-73.1852365
+498,2023-02-24T07:46:12.000Z,1.63E+18,undefined,undefined,undefined,undefined,23.2161456,90.64938244
+499,2023-02-24T07:46:10.000Z,1.63E+18,Bulgaria,undefined,undefined,Bulgaria,42.6073975,25.4856617
